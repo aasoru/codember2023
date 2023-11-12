@@ -1,0 +1,15 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "Codember challenges proposed by midudev",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "codember",
+    "dev"
+  ],
+  "author": "aaron sosa",
+  "license": "ISC"
+}
